@@ -1,2 +1,2 @@
 # BobbyAziz.net
-I like to be online
+git config --global init.defaultBranch main
